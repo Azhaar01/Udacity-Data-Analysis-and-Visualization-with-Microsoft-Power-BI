@@ -38,4 +38,5 @@ ___
 | 03 		  | [Market Analysis Report for National Clothing Chain](/03-Market-Analysis-Report-for-National-Clothing-Chain/)	|
 ___
 
-
+## Nanodegree Certificate
+"C:\Users\Azhaa\Downloads\Data Analysis and Visualization with Microsoft Power Bi.pdf"
