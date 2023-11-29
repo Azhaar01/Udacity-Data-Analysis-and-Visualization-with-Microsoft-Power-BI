@@ -10,4 +10,6 @@ The project demonstrates an understanding of basic data modeling principles, inc
 Below is a quick demonestration about project steps:
 
 ### Step 1 Get Data:
-used files are `CFO Metrics Tracker.xlsx`, `Customer List (as of FY2021).txt`
+used files are `CFO Metrics Tracker.xlsx`, `Customer List (as of FY2021).txt`,
+ `SSTC Product Offerings.pdf`, `USD-CAD Exchange Rates.csv`, 
+ `Monthly Sales Logs/` downloaded from Udacity and can be found on `Source Files/` folder on this repo.
