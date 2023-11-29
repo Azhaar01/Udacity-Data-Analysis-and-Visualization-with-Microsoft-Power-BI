@@ -39,3 +39,4 @@ ___
 ___
 
 ## Nanodegree Certificate
+Data Analysis and Visualization with Microsoft Power Bi.pdf
