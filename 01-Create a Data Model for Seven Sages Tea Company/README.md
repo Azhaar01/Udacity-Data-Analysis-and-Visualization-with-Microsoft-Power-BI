@@ -10,3 +10,4 @@ The project demonstrates an understanding of basic data modeling principles, inc
 Below is a quick demonestration about project steps:
 
 ### Step 1 Get Data:
+used files are `CFO Metrics Tracker.xlsx`, `Customer List (as of FY2021).txt`
