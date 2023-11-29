@@ -8,7 +8,7 @@ Each project contains a detailed README file documenting the project description
 ___
 ## Nanodegree Courses:
 
-**1. Introduction to Preparing and Modeling Data:**
+**1. Preparing and Modeling Data:**
 
 Covers: Power BI’s built-in Extract-Transform-Load (ETL) tool, Power Query, learn foundational data modeling principles, 
  some introductory DAX (Data Analytics Expressions), and touch on troubleshooting and optimization.
@@ -20,10 +20,9 @@ help users navigate different features and report pages and enable accessibility
 deliver a couple of advanced features capable of elevating how users navigate and engage with visuals and the report itself.
 
 
-**3. Advanced Data Analysis**
+**3. Advanced Data Analysis with Power BI**
 
-Covers: an introduction to data analysis looking at different terms and techniques 
-such as descriptive and inferential statistics, histograms, linear regression and an introduction to the concepts of correlation and probability. 
+Covers: an introduction to data analysis looking at different terms and techniques such as descriptive and inferential statistics, histograms, linear regression and an introduction to the concepts of correlation and probability. 
 After taking the introductory lessons on data analytics, the course then moves to M, the language of Power Query, 
 and learning to build custom formulas as part of the data transformation process. The overarching goal of the course is to help students 
 become effective at the process of retrieving, analyzing and visualizing data in order to answer questions and draw conclusions.
