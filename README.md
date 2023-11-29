@@ -38,5 +38,4 @@ ___
 | 03 		  | [Market Analysis Report for National Clothing Chain](/03-Market-Analysis-Report-for-National-Clothing-Chain/)	|
 ___
 
-## Nanodegree Certificate
-![Shaimaa Elbadrawy Certificate](https://github.com/xShaimaa/Udacity-Data-Analysis-and-Viz-with-Microsoft-Power-BI/blob/master/Shaimaa%20Elbadrawy%20Cert.png)
+
