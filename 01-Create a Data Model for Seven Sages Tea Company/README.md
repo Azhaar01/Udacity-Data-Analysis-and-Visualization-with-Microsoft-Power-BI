@@ -44,3 +44,26 @@ We ended up with one fact table `Sales` and four diminsion tables pointing towar
 a snapshot of the data model is provided below and can be found on `SSTC-Data-Model.png` on this repo.
 
 ![SSTC Data Model](https://github.com/Azhaar01/Udacity-Data-Analysis-and-Visualization-with-Microsoft-Power-BI/blob/main/01-Create%20a%20Data%20Model%20for%20Seven%20Sages%20Tea%20Company/SSTC-Data-Model.png)
+
+### Writing DAX Measures:
+To satisfy the CFO's requirements, we will need to write six measures—to calculate Sales, 
+Cost of Sales and Gross Profit Margin in two different currencies.
+The following measures have been created using DAX, are present on the data model, and are clearly labeled:
+
+  - Sales USD ($)
+  - Cost of Sales USD ($)
+  - Gross Profit Margin (or GPM) in USD (%)
+  - Sales CAD ($)
+  - Unit Sales by Product (%)
+  - Gross profit by Product (%)
+
+### Build a Report
+To satisfy the CFO's requirements, our basic version of report will have two tabs, one summarizing sales by customer and customer type across quarters and would be labeled `Sales and GPM`. 
+The second will simply summarize the percentages of gross profit and unit sales by product and would be labeled `Gross Profit and Unit Sales`.
+Both tabs has a very brief executive summary at the bottom.
+Full PDF report can be found on `SSTC-Report` file provided on this repo.
+
+![SSTC Report Tab 1](https://github.com/Azhaar01/Udacity-Data-Analysis-and-Visualization-with-Microsoft-Power-BI/blob/main/01-Create%20a%20Data%20Model%20for%20Seven%20Sages%20Tea%20Company/SSTC-Report-Tab1.png)
+
+
+![SSTC Report Tab 2](https://github.com/Azhaar01/Udacity-Data-Analysis-and-Visualization-with-Microsoft-Power-BI/blob/main/01-Create%20a%20Data%20Model%20for%20Seven%20Sages%20Tea%20Company/SSTC-Report-Tab2.png)
