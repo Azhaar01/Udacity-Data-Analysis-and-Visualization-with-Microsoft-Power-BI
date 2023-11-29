@@ -39,4 +39,3 @@ ___
 ___
 
 ## Nanodegree Certificate
-confirm.udacity.com/e/34b6a118-ee4b-11ed-8122-e78f7b643abc
