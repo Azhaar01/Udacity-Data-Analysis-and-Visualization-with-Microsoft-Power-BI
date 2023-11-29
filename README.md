@@ -39,3 +39,4 @@ ___
 ___
 
 ## Nanodegree Certificate
+[Data Analysis and Visualization with Microsoft Power Bi.pdf](https://github.com/Azhaar01/Udacity-Data-Analysis-and-Visualization-with-Microsoft-Power-BI/files/13501596/Data.Analysis.and.Visualization.with.Microsoft.Power.Bi.pdf)
