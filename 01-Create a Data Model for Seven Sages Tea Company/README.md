@@ -43,3 +43,4 @@ The date table includes standard fields:
 We ended up with one fact table `Sales` and four diminsion tables pointing towards it with an active one to many relationship.
 a snapshot of the data model is provided below and can be found on `SSTC-Data-Model.png` on this repo.
 
+[SSTC-Data-Model.png](/https://github.com/Azhaar01/Udacity-Data-Analysis-and-Visualization-with-Microsoft-Power-BI/blob/main/01-Create%20a%20Data%20Model%20for%20Seven%20Sages%20Tea%20Company/SSTC-Data-Model.png/)
