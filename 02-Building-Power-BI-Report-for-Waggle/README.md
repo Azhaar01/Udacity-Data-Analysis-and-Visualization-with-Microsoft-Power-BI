@@ -62,9 +62,8 @@ ___
 
 ### Report Tab 3:
 To drive insights from the `family` dataset, the third tab included:
-- A table that shows important family data.
-- A card that shows the count of total pets on the dataset, and has 2 bookmark buttons to show only cat or dog counts.
-- A visualization that shows the relation between `house hold income` and `number of owned pets` along the dataset with `pet type` as hue. 
+- A visualization that shows the relation between `average of annual pet expenses` and `number of total pets`.
+- A visualization that shows total of pets in each state.
 
 
 ![Waggle Report Tab 3](https://github.com/Azhaar01/Udacity-Data-Analysis-and-Visualization-with-Microsoft-Power-BI/blob/main/02-Building-Power-BI-Report-for-Waggle/Waggle-dashboard/Family%20insights%20Tab.png)
