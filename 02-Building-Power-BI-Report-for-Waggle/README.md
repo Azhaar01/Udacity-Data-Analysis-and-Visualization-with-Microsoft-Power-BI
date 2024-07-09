@@ -55,7 +55,7 @@ To drive insights from the `pets` dataset, the second tab included:
 - 2 visualiza`tion that highlighted both `gender` and `age` distributions along the dataset with `pet type` as hue. 
 
 
-![Waggle Report Tab 2](https://github.com/Azhaar01/Udacity-Data-Analysis-and-Viz-with-Microsoft-Power-BI/blob/master/02-Building-Power-BI-Report-for-Waggle/Waggle-dashboard/Waggle-tab2.jfif)
+![Waggle Report Tab 2](https://github.com/Azhaar01/Udacity-Data-Analysis-and-Visualization-with-Microsoft-Power-BI/blob/main/02-Building-Power-BI-Report-for-Waggle/Waggle-dashboard/Pets%20insights%20Tab.png)
 
 ___
 
