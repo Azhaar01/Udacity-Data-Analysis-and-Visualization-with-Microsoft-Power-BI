@@ -22,7 +22,7 @@ A snapshot of the data model is provided below and can be found on `Waggle-data-
   - Were owners of Lapcat devices as satisfied with the product as Lapdog owners?
 - The Chief Marketing Officer would like the report to be “on-brand” by including only colors from the Waggle color palette, the Waggle logo, and other approved company logos and icons.
 
-![Waggle color palette](02-Building-Power-BI-Report-for-Waggle/Waggle-Color-Palette.png)
+![Waggle color palette](https://github.com/Azhaar01/Udacity-Data-Analysis-and-Visualization-with-Microsoft-Power-BI/blob/main/02-Building-Power-BI-Report-for-Waggle/Waggle-Color-Palette.png)
 
 
 - The product team trusts us to incorporate other visuals and insights as we see fit but is most interested in comparisons between the dogs and cats using Waggle devices as well as any information about the families who own the pets. They would also like slicers to help them filter and explore on their own.
