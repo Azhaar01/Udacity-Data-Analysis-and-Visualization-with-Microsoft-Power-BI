@@ -41,8 +41,8 @@ Full PDF report can be found on `Waggle-Report.pdf` file provided on this repo.
 
 ### Report Tab 1:
 To address the CEO’s questions 
-- 1 visualization was plotted to highlight the difference between `average daily steps` overtime recorded on Lapdog devices vs. Lapcat devices displaying the trend over time by year and month.
-- 1 visualization highlighted the difference between the customer `ratings` for Lapdog devices vs. Lapcat devices in addition to the number of rates.
+- A visualization was plotted to highlight the difference between `average daily steps` overtime recorded on Lapdog devices vs. Lapcat devices displaying the trend over time by year and month.
+- A visualization highlighted the difference between the customer `ratings` for Lapdog devices vs. Lapcat devices in addition to the number of rates.
 
 
 ![Waggle Report Tab 1](https://github.com/Azhaar01/Udacity-Data-Analysis-and-Visualization-with-Microsoft-Power-BI/blob/main/02-Building-Power-BI-Report-for-Waggle/Waggle-dashboard/Home%20Tab.png)
@@ -52,7 +52,8 @@ ___
 ### Report Tab 2:
 To drive insights from the `pets` dataset, the second tab included:
 - A visualization that shows the `breed` distribution of cats and dogs.
-- 2 visualiza`tion that highlighted both `gender` and `age` distributions along the dataset with `pet type` as hue. 
+- A visualization that shows the average number of `ratings`
+- A visualization that highlights more information about `cats` and `dogs` from 2018 to 2020, displaying the total.
 
 
 ![Waggle Report Tab 2](https://github.com/Azhaar01/Udacity-Data-Analysis-and-Visualization-with-Microsoft-Power-BI/blob/main/02-Building-Power-BI-Report-for-Waggle/Waggle-dashboard/Pets%20insights%20Tab.png)
