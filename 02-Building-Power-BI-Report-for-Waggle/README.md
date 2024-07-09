@@ -13,7 +13,7 @@ Below is a quick demonestration about the project components.
 ### Data Model:
 A snapshot of the data model is provided below and can be found on `Waggle-data-model.png` on this repo.
 
-![Waggle Data Model](https://github.com/Azhaar01/Udacity-Data-Analysis-and-Viz-with-Microsoft-Power-BI/blob/master/02-Building-Power-BI-Report-for-Waggle/Waggle-data-model.png)
+![Waggle Data Model](02-Building-Power-BI-Report-for-Waggle/Waggle-data-model.png)
 
 
 ### Report Requirements:
