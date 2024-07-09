@@ -41,8 +41,8 @@ Full PDF report can be found on `Waggle-Report.pdf` file provided on this repo.
 
 ### Report Tab 1:
 To address the CEO’s questions 
-- 2 visualizations were ploted to highlight the difference between `average daily steps` over time recorded on Lapdog devices vs. Lapcat devices displaying the trend over time by year and month.
-- 2 visualizations highlighted the difference between the customer `ratings` for Lapdog devices vs. Lapcat devices in adition to the number of rates.
+- 1 visualization was plotted to highlight the difference between `average daily steps` overtime recorded on Lapdog devices vs. Lapcat devices displaying the trend over time by year and month.
+- 1 visualization highlighted the difference between the customer `ratings` for Lapdog devices vs. Lapcat devices in addition to the number of rates.
 
 
 ![Waggle Report Tab 1](https://github.com/Azhaar01/Udacity-Data-Analysis-and-Visualization-with-Microsoft-Power-BI/blob/main/02-Building-Power-BI-Report-for-Waggle/Waggle-dashboard/Home%20Tab.png)
