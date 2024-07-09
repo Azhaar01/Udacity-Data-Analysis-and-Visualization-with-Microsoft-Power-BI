@@ -53,7 +53,7 @@ ___
 To drive insights from the `pets` dataset, the second tab included:
 - A visualization that shows the `breed` distribution of cats and dogs.
 - A visualization that shows the average number of `ratings`
-- A visualization that highlights more information about `cats` and `dogs` from 2018 to 2020, displaying the total.
+- A table that highlights more information about `cats` and `dogs` from 2018 to 2020, displaying the total.
 
 
 ![Waggle Report Tab 2](https://github.com/Azhaar01/Udacity-Data-Analysis-and-Visualization-with-Microsoft-Power-BI/blob/main/02-Building-Power-BI-Report-for-Waggle/Waggle-dashboard/Pets%20insights%20Tab.png)
