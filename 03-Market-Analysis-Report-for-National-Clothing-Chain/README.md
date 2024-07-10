@@ -52,7 +52,7 @@ ___
 ## Data Model
 A snapshot of the data model is provided below and can be found on `National-Clothing-Chain-Data-Model.png` on this repo.
 
-![National Clothing Chain Data Model](https://github.com/xShaimaa/Udacity-Data-Analysis-and-Viz-with-Microsoft-Power-BI/blob/master/03-Market-Analysis-Report-for-National-Clothing-Chain/National-Clothing-Chain-Data-Model.png)
+![National Clothing Chain Data Model](https://github.com/Azhaar01/Udacity-Data-Analysis-and-Visualization-with-Microsoft-Power-BI/blob/main/03-Market-Analysis-Report-for-National-Clothing-Chain/National-Clothing-Chain-Data-Model.png)
 
 
 ## Analysis Questions
