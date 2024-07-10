@@ -65,16 +65,22 @@ A snapshot of the data model is provided below and can be found on `National-Clo
 Full report can be found on `National-Clothing-Chain-Report.pdf` and summery with finding can be found on `National-clothing-chain-Summary.doc` file, 
 bot provided on this repo. The corresponding visuals can be seen grouped below.
 
-![avg-income-by-state](https://github.com/Azhaar01/Udacity-Data-Analysis-and-Viz-with-Microsoft-Power-BI/blob/master/03-Market-Analysis-Report-for-National-Clothing-Chain/img/avg-income-by-state.png)
+![Average_Income_and_Average_Sales](https://github.com/Azhaar01/Udacity-Data-Analysis-and-Visualization-with-Microsoft-Power-BI/blob/main/03-Market-Analysis-Report-for-National-Clothing-Chain/img/Average_Income_and_Average_Sales.png)
 ___
-![predicted-income-by-state](https://github.com/Azhaar01/Udacity-Data-Analysis-and-Viz-with-Microsoft-Power-BI/blob/master/03-Market-Analysis-Report-for-National-Clothing-Chain/img/predicted-income-by-state.png)
+![Cards_visualizations](https://github.com/Azhaar01/Udacity-Data-Analysis-and-Visualization-with-Microsoft-Power-BI/blob/main/03-Market-Analysis-Report-for-National-Clothing-Chain/img/Cards_visualizations.png)
 ___
-![sales-income-corr](https://github.com/Azhaar01/Udacity-Data-Analysis-and-Viz-with-Microsoft-Power-BI/blob/master/03-Market-Analysis-Report-for-National-Clothing-Chain/img/sales-income-corr.png)
+![Predicted_Customer_Incomes](https://github.com/Azhaar01/Udacity-Data-Analysis-and-Visualization-with-Microsoft-Power-BI/blob/main/03-Market-Analysis-Report-for-National-Clothing-Chain/img/Predicted_Customer_Incomes.png)
 ___
-![customer-return-rate](https://github.com/Azhaar01/Udacity-Data-Analysis-and-Viz-with-Microsoft-Power-BI/blob/master/03-Market-Analysis-Report-for-National-Clothing-Chain/img/customer-return-rate.png)
+![Purchases_by_best_product](https://github.com/Azhaar01/Udacity-Data-Analysis-and-Visualization-with-Microsoft-Power-BI/blob/main/03-Market-Analysis-Report-for-National-Clothing-Chain/img/Purchases_by_best_product.png)
 ___
-![product-recomm](https://github.com/Azhaar01/Udacity-Data-Analysis-and-Viz-with-Microsoft-Power-BI/blob/master/03-Market-Analysis-Report-for-National-Clothing-Chain/img/product-recomm.png)
+![Purchases_by_year_and_month](https://github.com/Azhaar01/Udacity-Data-Analysis-and-Visualization-with-Microsoft-Power-BI/blob/main/03-Market-Analysis-Report-for-National-Clothing-Chain/img/Purchases_by_year_and_month.png)
 ___
-![product-by-price](https://github.com/Azhaar01/Udacity-Data-Analysis-and-Viz-with-Microsoft-Power-BI/blob/master/03-Market-Analysis-Report-for-National-Clothing-Chain/img/product-by-price.png)
+![Ratings_and_Return](https://github.com/Azhaar01/Udacity-Data-Analysis-and-Visualization-with-Microsoft-Power-BI/blob/main/03-Market-Analysis-Report-for-National-Clothing-Chain/img/Ratings_and_Return.png)
 ___
-![product-instock](https://github.com/Azhaar01/Udacity-Data-Analysis-and-Viz-with-Microsoft-Power-BI/blob/master/03-Market-Analysis-Report-for-National-Clothing-Chain/img/product-instock.png)
+![Relation_between_return_rate_and_customer_rating](https://github.com/Azhaar01/Udacity-Data-Analysis-and-Visualization-with-Microsoft-Power-BI/blob/main/03-Market-Analysis-Report-for-National-Clothing-Chain/img/Relation_between_return_rate_and_customer_rating.png)
+___
+![Sum_of_average_income_by_state](https://github.com/Azhaar01/Udacity-Data-Analysis-and-Visualization-with-Microsoft-Power-BI/blob/main/03-Market-Analysis-Report-for-National-Clothing-Chain/img/Sum_of_average_income_by_state.png)
+___
+![income_by_state](https://github.com/Azhaar01/Udacity-Data-Analysis-and-Visualization-with-Microsoft-Power-BI/blob/main/03-Market-Analysis-Report-for-National-Clothing-Chain/img/income_by_state.png)
+___
+![Summary](https://github.com/Azhaar01/Udacity-Data-Analysis-and-Visualization-with-Microsoft-Power-BI/blob/main/03-Market-Analysis-Report-for-National-Clothing-Chain/img/Summary.png)
