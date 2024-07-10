@@ -75,6 +75,6 @@ ___
 ___
 ![product-recomm](https://github.com/Azhaar01/Udacity-Data-Analysis-and-Viz-with-Microsoft-Power-BI/blob/master/03-Market-Analysis-Report-for-National-Clothing-Chain/img/product-recomm.png)
 ___
-![product-by-price](https://github.com/xShaimaa/Udacity-Data-Analysis-and-Viz-with-Microsoft-Power-BI/blob/master/03-Market-Analysis-Report-for-National-Clothing-Chain/img/product-by-price.png)
+![product-by-price](https://github.com/Azhaar01/Udacity-Data-Analysis-and-Viz-with-Microsoft-Power-BI/blob/master/03-Market-Analysis-Report-for-National-Clothing-Chain/img/product-by-price.png)
 ___
-![product-instock](https://github.com/xShaimaa/Udacity-Data-Analysis-and-Viz-with-Microsoft-Power-BI/blob/master/03-Market-Analysis-Report-for-National-Clothing-Chain/img/product-instock.png)
+![product-instock](https://github.com/Azhaar01/Udacity-Data-Analysis-and-Viz-with-Microsoft-Power-BI/blob/master/03-Market-Analysis-Report-for-National-Clothing-Chain/img/product-instock.png)
