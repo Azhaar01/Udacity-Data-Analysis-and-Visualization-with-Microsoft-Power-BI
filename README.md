@@ -34,7 +34,7 @@ ___
 | ---		  | ----    |
 | 01		  | [Create a Data Model for Seven Sages Tea Company](https://github.com/Azhaar01/Udacity-Data-Analysis-and-Visualization-with-Microsoft-Power-BI/tree/main/01-Create%20a%20Data%20Model%20for%20Seven%20Sages%20Tea%20Company)	|
 | 02 		  | [Building-Power-BI-Report-for-Waggle](https://github.com/Azhaar01/Udacity-Data-Analysis-and-Visualization-with-Microsoft-Power-BI/tree/main/02-Building-Power-BI-Report-for-Waggle)  								|
-| 03 		  | Market-Analysis-Report-for-National-Clothing-Chain	|
+| 03 		  | [Market-Analysis-Report-for-National-Clothing-Chain](https://github.com/Azhaar01/Udacity-Data-Analysis-and-Visualization-with-Microsoft-Power-BI/tree/main/03-Market-Analysis-Report-for-National-Clothing-Chain)	|
 ___
 
 ## Nanodegree Certificate
